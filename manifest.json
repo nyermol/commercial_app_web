@@ -1,0 +1,35 @@
+{
+    "name": "ЭВИ Приемка",
+    "short_name": "ЭВИ Приемка",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Приложение для приемки квартир",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Evi_logo-254.png",
+            "sizes": "254x254",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Evi_logo-1016.PNG",
+            "sizes": "1016x1016",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Evi_logo-maskable-254.png",
+            "sizes": "254x254",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Evi_logo-maskable-1016.PNG",
+            "sizes": "1016x1016",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
