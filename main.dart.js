@@ -59533,10 +59533,10 @@ r=A.bs(r,null,q).w
 p=n.c
 p.toString
 o=r.a.b-s.b-A.bs(p,null,q).w.f.d
-if(o<$.hl.b0()*0.5){n=n.e
+if(o<$.hl.b0()*0.3){n=n.e
 r=B.c.gbp(n.f).at
 r.toString
-n.kE(r+($.hl.b0()*0.5-o),B.i9,B.bs)}}},
+n.kE(r+($.hl.b0()*0.3-o),B.i9,B.bs)}}},
 $S:3}
 A.aH3.prototype={
 $1(a){this.a.a.aCF()},
